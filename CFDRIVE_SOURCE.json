@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/rs/curlie",
+  "commit": "5dfcbb17ea673b66a3faab66d2ff5f24145f45a8",
+  "license": "MIT",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
